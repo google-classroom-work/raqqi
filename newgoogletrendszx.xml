@@ -49,7 +49,7 @@
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/TallManRun_Build.loader.js";
+      var loaderUrl = "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/TallManRun_Build.loader.js";
       var config = {
         dataUrl: buildUrl + "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/TallManRun_Build.data",
         frameworkUrl: buildUrl + "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/TallManRun_Build.framework.js",
