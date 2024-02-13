@@ -51,9 +51,9 @@
       var buildUrl = "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/";
       var loaderUrl = buildUrl + "TallManRun_Build.loader.js";
       var config = {
-        dataUrl: buildUrl + "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/TallManRun_Build.data",
-        frameworkUrl: buildUrl + "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/TallManRun_Build.framework.js",
-        codeUrl: buildUrl + "https://cdn.jsdelivr.net/gh/google-classroom-work/raqqi@main/Build/TallManRun_Build.wasm",
+        dataUrl: buildUrl + "/TallManRun_Build.data",
+        frameworkUrl: buildUrl + "/TallManRun_Build.framework.js",
+        codeUrl: buildUrl + "/TallManRun_Build.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Default Company",
         productName: "Tall Man Run",
